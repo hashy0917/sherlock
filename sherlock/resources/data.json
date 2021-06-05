@@ -1836,6 +1836,14 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis77777"
   },
+  "atcoder": {
+    "errorMsg": "404 Not Found - AtCoder",
+    "errorType": "message",
+    "url": "https://atcoder.jp/users/{}",
+    "urlMain": "https://atcoder.jp/",
+    "username_claimed": "red",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "authorSTREAM": {
     "errorType": "status_code",
     "url": "http://www.authorstream.com/{}/",
@@ -2258,13 +2266,6 @@
     "errorType": "status_code",
     "url": "http://uid.me/{}",
     "urlMain": "https://uid.me/",
-    "username_claimed": "blue",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
-  "atcoder": {
-    "errorType": "status_code",
-    "url": "https://atcoder.jp/users/{}",
-    "urlMain": "https://atcoder.jp",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   }

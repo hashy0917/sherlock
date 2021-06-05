@@ -1837,11 +1837,10 @@
     "username_unclaimed": "noonewouldeverusethis77777"
   },
   "atcoder": {
-    "errorMsg": "404 Not Found - AtCoder",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://atcoder.jp/users/{}",
     "urlMain": "https://atcoder.jp/",
-    "username_claimed": "red",
+    "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "authorSTREAM": {
